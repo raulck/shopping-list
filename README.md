@@ -1,6 +1,6 @@
-# A simple shopping list app built with React, powered by Vite for fast development and styled with Tailwind CSS for a modern look. This app allows users to add, edit, and remove items, making it easy to manage shopping lists.
+### A simple shopping list app built with React, powered by Vite for fast development and styled with Tailwind CSS for a modern look. This app allows users to add, edit, and remove items, making it easy to manage shopping lists.
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
